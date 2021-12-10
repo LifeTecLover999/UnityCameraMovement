@@ -1,7 +1,7 @@
 # UnityCameraMovement
 A simple C# script for camera movement in Unity
 
-#Licensing
+# Licensing
 
 Released under MIT license
 
